@@ -144,7 +144,7 @@
     float: left;
     padding: 30px;
     color: white;
-    background-image: url(img/portfolio-4.jpg);
+    background-image: url(../img/portfolio-4.jpg);
     transition: all 0.7s;
 }
 
@@ -175,7 +175,7 @@
     border-radius: 50px;
     color: white;
     cursor: pointer;
-    margin:0px 5px 0px 5px;
+    margin: 0px 5px 0px 5px;
 }
 
 .copy {
